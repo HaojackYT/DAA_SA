@@ -63,7 +63,7 @@
         <mxCell id="KlYMKg8d0Hw80r4B96k4-107" value="Nhập username. pass" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="200" y="140" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="KlYMKg8d0Hw80r4B96k4-120" value="Nhập username. pass" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="KlYMKg8d0Hw80r4B96k4-120" value="Nhập thông" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="210" y="260" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
