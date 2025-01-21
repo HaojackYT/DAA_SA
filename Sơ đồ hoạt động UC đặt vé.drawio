@@ -126,7 +126,7 @@
         <mxCell id="pOnxZqQ0mN3QfYUW2hs--60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#FF0000;" edge="1" parent="1" source="pOnxZqQ0mN3QfYUW2hs--45" target="pOnxZqQ0mN3QfYUW2hs--58">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pOnxZqQ0mN3QfYUW2hs--45" value="Cập nhật CSDL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="pOnxZqQ0mN3QfYUW2hs--45" value="Thêm vé vào CSDL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="300" y="760" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pOnxZqQ0mN3QfYUW2hs--56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;strokeColor=#FF0000;" edge="1" parent="1" source="pOnxZqQ0mN3QfYUW2hs--50" target="pOnxZqQ0mN3QfYUW2hs--38">
