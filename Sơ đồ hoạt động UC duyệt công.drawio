@@ -92,7 +92,7 @@
           <mxGeometry x="480" y="380" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="OR3LcchpH6B-QSaoghlQ-41" value="Lưu thời gian quét vân tay vào CSDL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="320" y="500" width="120" height="40" as="geometry" />
+          <mxGeometry x="320" y="480" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YnngZR6m_7HpqkviCiB8-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YnngZR6m_7HpqkviCiB8-2" target="OR3LcchpH6B-QSaoghlQ-11">
           <mxGeometry relative="1" as="geometry">
