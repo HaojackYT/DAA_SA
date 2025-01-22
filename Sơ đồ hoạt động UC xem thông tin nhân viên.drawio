@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.6">
   <diagram name="Page-1" id="pAYEDax6jlEjCvd47c3e">
-    <mxGraphModel dx="716" dy="325" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1023" dy="464" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,7 +56,7 @@
         <mxCell id="j3ycPdzo6cHpRrVuyQYC-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0500;" parent="1" source="j3ycPdzo6cHpRrVuyQYC-13" target="j3ycPdzo6cHpRrVuyQYC-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="j3ycPdzo6cHpRrVuyQYC-13" value="Xem thêm&lt;br&gt;nhân viên" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" parent="1" vertex="1">
+        <mxCell id="j3ycPdzo6cHpRrVuyQYC-13" value="Xem thêm&lt;br&gt;thông tin nhân viên khác" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="320" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j3ycPdzo6cHpRrVuyQYC-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0500;" parent="1" source="j3ycPdzo6cHpRrVuyQYC-13" target="j3ycPdzo6cHpRrVuyQYC-5" edge="1">
