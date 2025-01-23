@@ -78,8 +78,9 @@
         <mxCell id="PDLHa-FzQipxZmoy9RNo-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0500;" parent="1" source="PDLHa-FzQipxZmoy9RNo-28" target="PDLHa-FzQipxZmoy9RNo-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="5nzaItZQKXCWeE0JLC6Q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#FF0500,#FFFFFF);" edge="1" parent="1" source="PDLHa-FzQipxZmoy9RNo-28" target="PDLHa-FzQipxZmoy9RNo-30">
+        <mxCell id="5nzaItZQKXCWeE0JLC6Q-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#FF0500,#FFFFFF);" edge="1" parent="1" source="PDLHa-FzQipxZmoy9RNo-28" target="PDLHa-FzQipxZmoy9RNo-8">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="60" as="targetPoint" />
             <Array as="points">
               <mxPoint x="620" y="380" />
               <mxPoint x="620" y="60" />
@@ -88,12 +89,6 @@
         </mxCell>
         <mxCell id="PDLHa-FzQipxZmoy9RNo-28" value="Chỉnh sửa&lt;br&gt;thông tin nhân&lt;br&gt;viên khác" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="460" y="340" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="PDLHa-FzQipxZmoy9RNo-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#FF0500,#FFFFFF);" parent="1" source="PDLHa-FzQipxZmoy9RNo-30" target="PDLHa-FzQipxZmoy9RNo-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="PDLHa-FzQipxZmoy9RNo-30" value="Cập nhật danh sách&lt;br&gt;nhân viên" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" parent="1" vertex="1">
-          <mxGeometry x="460" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="PDLHa-FzQipxZmoy9RNo-34" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="505" y="265" width="30" height="30" as="geometry" />
