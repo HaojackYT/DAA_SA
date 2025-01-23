@@ -78,7 +78,7 @@
         <mxCell id="LBbw3lxkwzRhqkfQi1AQ-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0500;" edge="1" parent="1" source="LBbw3lxkwzRhqkfQi1AQ-23" target="LBbw3lxkwzRhqkfQi1AQ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LBbw3lxkwzRhqkfQi1AQ-23" target="LBbw3lxkwzRhqkfQi1AQ-25">
+        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#FF0500,#FFFFFF);" edge="1" parent="1" source="LBbw3lxkwzRhqkfQi1AQ-23" target="LBbw3lxkwzRhqkfQi1AQ-25">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="620" y="380" />
@@ -89,7 +89,7 @@
         <mxCell id="LBbw3lxkwzRhqkfQi1AQ-23" value="Chỉnh sửa&lt;br&gt;thông tin suất chiếu&amp;nbsp;khác" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="460" y="340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LBbw3lxkwzRhqkfQi1AQ-25" target="LBbw3lxkwzRhqkfQi1AQ-8">
+        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=light-dark(#FF0500,#FFFFFF);" edge="1" parent="1" source="LBbw3lxkwzRhqkfQi1AQ-25" target="LBbw3lxkwzRhqkfQi1AQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LBbw3lxkwzRhqkfQi1AQ-25" value="Cập nhật danh sách&lt;br&gt;suất chiếu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
