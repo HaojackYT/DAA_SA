@@ -56,7 +56,7 @@
         <mxCell id="p94vNTU9T4nclMIpOv3r-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0500;" edge="1" parent="1" source="p94vNTU9T4nclMIpOv3r-16" target="p94vNTU9T4nclMIpOv3r-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p94vNTU9T4nclMIpOv3r-16" value="Xem thêm&lt;br&gt;thông tin nhân viên khác" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="p94vNTU9T4nclMIpOv3r-16" value="Xem thêm&lt;br&gt;ưu đãi khác" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p94vNTU9T4nclMIpOv3r-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0500;" edge="1" parent="1" source="p94vNTU9T4nclMIpOv3r-16" target="p94vNTU9T4nclMIpOv3r-10">
