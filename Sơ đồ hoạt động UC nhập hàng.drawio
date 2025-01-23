@@ -91,7 +91,7 @@
         <mxCell id="qV8h14UEFSR0qD1XIeec-29" value="Nhập thông tin chi tiết của lô hàng" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=light-dark(#FF0500,#FFFFFF);" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="qV8h14UEFSR0qD1XIeec-30" value="Mã lô hàng, nguồn nhập, ngày giờ thời gian nhập hàng." style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="qV8h14UEFSR0qD1XIeec-30" value="Mã lô hàng, nguồn nhập, ngày giờ thời gian nhập hàng, hạn sử dụng" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=center;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="100" y="280" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="qV8h14UEFSR0qD1XIeec-32" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="qV8h14UEFSR0qD1XIeec-30">
