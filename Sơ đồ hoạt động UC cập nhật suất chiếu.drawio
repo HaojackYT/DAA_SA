@@ -107,6 +107,18 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="5mwLe3mAtU6Khgx0BeRU-1" value="Đúng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="560" y="350" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mwLe3mAtU6Khgx0BeRU-2" value="Đúng" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mwLe3mAtU6Khgx0BeRU-3" value="Sai" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="480" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5mwLe3mAtU6Khgx0BeRU-4" value="Sai" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="250" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
