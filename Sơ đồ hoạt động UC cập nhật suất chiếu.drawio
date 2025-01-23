@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 Edg/132.0.0.0" version="26.0.7">
   <diagram name="Page-1" id="gM6A2SAk7b7OR7F0AIPG">
-    <mxGraphModel dx="1394" dy="597" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="673" dy="288" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
         <mxCell id="LBbw3lxkwzRhqkfQi1AQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0500;" edge="1" parent="1" source="LBbw3lxkwzRhqkfQi1AQ-13" target="LBbw3lxkwzRhqkfQi1AQ-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-13" value="Chỉnh sửa thông tin nhân viên" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-13" value="Chỉnh sửa thông tin suất chiếu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LBbw3lxkwzRhqkfQi1AQ-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0500;" edge="1" parent="1" source="LBbw3lxkwzRhqkfQi1AQ-15" target="LBbw3lxkwzRhqkfQi1AQ-13">
@@ -66,7 +66,7 @@
         <mxCell id="LBbw3lxkwzRhqkfQi1AQ-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0500;" edge="1" parent="1" source="LBbw3lxkwzRhqkfQi1AQ-18" target="LBbw3lxkwzRhqkfQi1AQ-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-18" value="Xác nhận&lt;br&gt;chỉnh sửa thông tin nhân viên" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-18" value="Xác nhận&lt;br&gt;chỉnh sửa thông tin&lt;br&gt;suất chiếu" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="300" y="240" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LBbw3lxkwzRhqkfQi1AQ-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0500;" edge="1" parent="1" source="LBbw3lxkwzRhqkfQi1AQ-20" target="LBbw3lxkwzRhqkfQi1AQ-23">
@@ -86,13 +86,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-23" value="Chỉnh sửa&lt;br&gt;thông tin nhân&lt;br&gt;viên khác" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-23" value="Chỉnh sửa&lt;br&gt;thông tin suất chiếu&amp;nbsp;khác" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="460" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="LBbw3lxkwzRhqkfQi1AQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LBbw3lxkwzRhqkfQi1AQ-25" target="LBbw3lxkwzRhqkfQi1AQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-25" value="Cập nhật danh sách&lt;br&gt;nhân viên" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
+        <mxCell id="LBbw3lxkwzRhqkfQi1AQ-25" value="Cập nhật danh sách&lt;br&gt;suất chiếu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="460" y="40" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LBbw3lxkwzRhqkfQi1AQ-26" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" vertex="1" parent="1">
