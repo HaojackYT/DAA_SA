@@ -50,7 +50,7 @@
         <mxCell id="dfMtilakAesgysmn-Q0U-13" value="Hiển thị thông tin báo cáo doanh thu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#ff0000;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="dfMtilakAesgysmn-Q0U-14" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=center;" vertex="1" parent="1">
+        <mxCell id="dfMtilakAesgysmn-Q0U-14" value="Tên, thời gian báo cáo, doanh thu, chữ ký" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=center;" vertex="1" parent="1">
           <mxGeometry x="460" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dfMtilakAesgysmn-Q0U-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0500;" edge="1" parent="1" source="dfMtilakAesgysmn-Q0U-16" target="dfMtilakAesgysmn-Q0U-18">
