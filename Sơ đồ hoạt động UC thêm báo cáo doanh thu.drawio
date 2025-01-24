@@ -41,7 +41,7 @@
         <mxCell id="amuqSX02oVc7hGXdB9N1-10" value="Nhập thông tin&lt;br&gt;báo cáo doanh thu" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0500;" vertex="1" parent="1">
           <mxGeometry x="100" y="120" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="amuqSX02oVc7hGXdB9N1-11" value="" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=center;strokeColor=#000000;" vertex="1" parent="1">
+        <mxCell id="amuqSX02oVc7hGXdB9N1-11" value="Tên, thời gian báo cáo, doanh thu, chữ ký" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=center;strokeColor=#000000;" vertex="1" parent="1">
           <mxGeometry x="100" y="200" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="amuqSX02oVc7hGXdB9N1-12" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
