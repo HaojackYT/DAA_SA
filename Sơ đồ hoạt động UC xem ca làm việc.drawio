@@ -72,7 +72,7 @@
         <mxCell id="FlScV6MKPYaaFeFTB3xO-33" value="Hiển thị TKB ca làm việc của nhân viên" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="300" y="200" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="FlScV6MKPYaaFeFTB3xO-34" value="Ca làm, thời gian bắt đầu / kết thúc ca, chi nhánh làm việc" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=center;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="FlScV6MKPYaaFeFTB3xO-34" value="STT ca làm, thời gian bắt đầu / kết thúc ca, chi nhánh làm việc" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.document;align=center;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="460" y="180" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="FlScV6MKPYaaFeFTB3xO-45" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#FF0000;" parent="1" vertex="1">
