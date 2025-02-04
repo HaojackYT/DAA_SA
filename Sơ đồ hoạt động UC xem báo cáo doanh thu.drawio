@@ -59,8 +59,10 @@
         <mxCell id="dfMtilakAesgysmn-Q0U-16" value="Xem thêm&lt;br&gt;báo cáo doanh thu khác" style="rhombus;whiteSpace=wrap;html=1;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="300" y="200" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dfMtilakAesgysmn-Q0U-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=1.077;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FF0500;" parent="1" source="dfMtilakAesgysmn-Q0U-16" target="dfMtilakAesgysmn-Q0U-10" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dfMtilakAesgysmn-Q0U-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#FF0500;" parent="1" source="dfMtilakAesgysmn-Q0U-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="158" y="160" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dfMtilakAesgysmn-Q0U-18" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;" parent="1" vertex="1">
           <mxGeometry x="470" y="225" width="30" height="30" as="geometry" />
