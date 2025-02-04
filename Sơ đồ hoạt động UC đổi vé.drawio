@@ -90,6 +90,18 @@
         <mxCell id="Yent-5lCWsYAWz7rNnYV-30" value="Cập nhật lại thông tin vé vào CSDL" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontColor=#000000;fillColor=#ffffc0;strokeColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="460" y="400" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Yent-5lCWsYAWz7rNnYV-33" value="Đúng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="230" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yent-5lCWsYAWz7rNnYV-34" value="Đúng" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yent-5lCWsYAWz7rNnYV-35" value="Sai" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Yent-5lCWsYAWz7rNnYV-36" value="Sai" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="170" width="40" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
